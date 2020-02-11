@@ -454,3 +454,44 @@
 {"message":"Bookmark with id 1 created.","level":"info"}
 {"message":"Bookmark with id 1 created.","level":"info"}
 {"message":"Bookmark with id 213456 not found.","level":"error"}
+{"message":"Unauthorized request to path /bookmarks/1","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"Bookmark with id 4 created.","level":"info"}
+{"message":"Bookmark with id 4 deleted.","level":"info"}
+{"message":"Bookmark with id 5 created.","level":"info"}
+{"message":"Bookmark with id 6 created.","level":"info"}
+{"message":"Bookmark with id 7 created.","level":"info"}
+{"message":"Bookmark with id 7 deleted.","level":"info"}
+{"message":"Bookmark with id 6 deleted.","level":"info"}
+{"message":"Bookmark with id 8 created.","level":"info"}
+{"message":"Bookmark with id 8 deleted.","level":"info"}
+{"message":"Bookmark with id 5 deleted.","level":"info"}
+{"message":"Bookmark with id 9 created.","level":"info"}
+{"message":"Bookmark with id 9 deleted.","level":"info"}
+{"message":"Bookmark with id 3 deleted.","level":"info"}
+{"message":"Bookmark with id 3 not found.","level":"error"}
+{"message":"Bookmark with id 3 not found.","level":"error"}
+{"message":"Bookmark with id 10 created.","level":"info"}
+{"message":"Bookmark with id 11 created.","level":"info"}
+{"message":"Bookmark with id 12 created.","level":"info"}
+{"message":"Bookmark with id 12 deleted.","level":"info"}
+{"message":"Bookmark with id 11 deleted.","level":"info"}
+{"message":"Bookmark with id 13 created.","level":"info"}
+{"message":"Bookmark with id 13 deleted.","level":"info"}
+{"message":"Bookmark with id 10 deleted.","level":"info"}
+{"message":"Bookmark with id 14 created.","level":"info"}
+{"message":"Bookmark with id 15 created.","level":"info"}
+{"message":"Bookmark with id 14 deleted.","level":"info"}
+{"message":"Bookmark with id 15 deleted.","level":"info"}
+{"message":"Bookmark with id 16 created.","level":"info"}
+{"message":"Bookmark with id 17 created.","level":"info"}
+{"message":"Bookmark with id 17 deleted.","level":"info"}
+{"message":"Bookmark with id 17 not found.","level":"error"}
+{"message":"Bookmark with id 16 deleted.","level":"info"}
+{"message":"Bookmark with id 18 created.","level":"info"}
+{"message":"Bookmark with id 19 created.","level":"info"}
+{"message":"Bookmark with id 19 deleted.","level":"info"}
+{"message":"Bookmark with id 20 created.","level":"info"}
+{"message":"Bookmark with id 21 created.","level":"info"}
+{"message":"Bookmark with id 21 deleted.","level":"info"}
